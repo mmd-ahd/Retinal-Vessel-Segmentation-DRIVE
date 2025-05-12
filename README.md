@@ -7,7 +7,7 @@ A traditional image-processing pipeline to automatically segment blood vessels i
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project implements a four-stage pipeline:
 
